@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.9.14
+Built-By: lsq
+Build-Jdk: 11.0.29
+Specification-Title: rocketmq-example 5.4.0
+Specification-Version: 5.4
+Specification-Vendor: Apache Software Foundation
+Implementation-Title: rocketmq-example 5.4.0
+Implementation-Version: 5.4.0
+Implementation-Vendor-Id: org.apache.rocketmq
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://rocketmq.apache.org/rocketmq-example/
+

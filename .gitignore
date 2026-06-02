@@ -20,3 +20,5 @@ bazel-testlogs
 .vscode
 MODULE.bazel.lock
 *.flattened-pom.xml
+/.m2
+/作业
